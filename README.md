@@ -6,8 +6,7 @@
 
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/blob/master/imagens/tela-inicial.png?raw=true" />
 
-<hr />
-* This is
-* this another
-* This other file
-<hr />
+
+*This is
+*this another
+*This other file
