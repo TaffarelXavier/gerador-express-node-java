@@ -9,9 +9,8 @@
 
 # Usabilidade
 
-## 1 Passo
+### 1 Passo:Você deve escolher uma pasta vazia e colar no campo em vermelho
+### 2 Passo: Escolha uma Template-Engine, por padrão, é selecionado o tipo ejs 
 
-### Você deve escolher uma pasta vazia e colar no campo em vermelho
-
+### Após isso, você deve clicar no botão "CRIAR"
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/raw/master/imagens/pasta.png?raw=true" />
-
