@@ -9,7 +9,8 @@
 # Tela Inicial do Sistema
 
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/blob/master/imagens/tela-inicial.png?raw=true" />
-Figura 01
+<div style="text-align:center">Figura 01</div>
+
 # Usabilidade
 
 ### 1 Passo:Você deve escolher uma pasta vazia e colar no campo em vermelho, como mostra na imagem:
@@ -18,4 +19,4 @@ Figura 01
 Aguarde, um momento e, em seguida, aparecerá um texto no campo saída, como na Figura 01
 
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/raw/master/imagens/pasta.png?raw=true" />
-Figura 02
+<div style="text-align:center">Figura 02</div>
