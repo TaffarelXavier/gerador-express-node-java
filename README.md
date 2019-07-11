@@ -1,6 +1,6 @@
 # Gerador Express Node Java
 
-##Se você acha chato todas as vezes que for criar um projeto em node com o Express Application Generator, esta ferramenta é para você.
+## Se você acha chato todas as vezes que for criar um projeto em node com o Express Application Generator, esta ferramenta é para você.
 
 ## Esta simples aplicação automatiza esse processo para você.
 
@@ -9,7 +9,7 @@
 # Tela Inicial do Sistema
 
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/blob/master/imagens/tela-inicial.png?raw=true" />
-<div style="text-align:center">Figura 01</div>
+<div style="text-align:center; width:100%;">Figura 01</div>
 
 # Usabilidade
 
@@ -19,4 +19,4 @@
 Aguarde, um momento e, em seguida, aparecerá um texto no campo saída, como na Figura 01
 
 <img src="https://github.com/TaffarelXavier/gerador-express-node-java/raw/master/imagens/pasta.png?raw=true" />
-<div style="text-align:center">Figura 02</div>
+<div style="text-align:center; width:100%;">Figura 02</div>
