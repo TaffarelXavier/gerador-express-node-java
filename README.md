@@ -1,6 +1,6 @@
 # Gerador Express Node Java
 
-## Se você acha chato todas as vezes que for criar um projeto em node com o Express Application Generator, esta ferramenta é para você.
+## Se você acha chato todas as vezes no processo da criação de um projeto em node, com o Express Application Generator, esta ferramenta é para você.
 
 ## Esta simples aplicação automatiza esse processo para você.
 
